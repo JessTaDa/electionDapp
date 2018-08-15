@@ -8,6 +8,7 @@ contract Election {
 	string public candidate;
 
 	function Election() public {
+		candidate = "Jess";
 
 	}
 
